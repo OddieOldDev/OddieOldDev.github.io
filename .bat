@@ -1,5 +1,3 @@
-:: This batch file was designed by Fonalc to help publish changes, You may download this to help you.
-
 @echo off
 title Github Commiter 9000
 cd C:\Users\Lewis\Desktop\rat attak\Github Page\OddieOldDev.github.io
